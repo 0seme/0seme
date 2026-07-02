@@ -58,10 +58,10 @@ happened, including the parts that didn't work the first time.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=0seme&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0seme&layout=compact&hide_border=true&theme=default" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=0seme&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0seme&layout=compact&hide_border=true&theme=default&cache_seconds=86400" />
 
-<img src="https://streak-stats.demolab.com?user=0seme&hide_border=true&theme=default" />
+<img src="https://streak-stats.demolab.com?user=0seme&hide_border=true&theme=default&cache_seconds=86400" />
 
 </div>
 
